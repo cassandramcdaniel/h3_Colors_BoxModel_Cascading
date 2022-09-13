@@ -1,1 +1,2 @@
-# h3_Colors_BoxModel_Cascading
+# hw3_simple_css
+Starter code for simple css assignment
