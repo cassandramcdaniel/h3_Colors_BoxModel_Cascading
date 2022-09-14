@@ -55,9 +55,18 @@ background-color: #0000ff;
 text-align: left;
 margin-right: 50px;
 border-width: 2px 5px 0px 0px;
-color:  #C4C4C4;
+
 }
 
+.blue>p{
+color: #C4C4C4;
+
+}
+
+.blue>header{
+color: #C4C4C4;
+
+}
 
 .yellow{
 background-color: 	#ffff00;
