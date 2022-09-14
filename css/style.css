@@ -83,14 +83,17 @@ color: #707070;
 
 }
 .green{
-background-color: #005700;
+background-color: #00D800;
 text-align: left;
 margin-right: 50px;
 border-width: 2px 5px 0px 0px;
 }
 
 .green>h2{
-color: #E8E8E8;
+color: #1F1F1F;
+}
+.green>p{
+color: #262626
 }
 
 
