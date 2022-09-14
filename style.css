@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 42px;
     text-align: center;
     padding: 15px;
 }
@@ -83,22 +83,29 @@ color: #707070;
 
 }
 .green{
-background-color: #005700;
+background-color: #00D800;
 text-align: left;
 margin-right: 50px;
 border-width: 2px 5px 0px 0px;
 }
 
+.green>h2{
+color: #1F1F1F;
+}
+.green>p{
+color: #262626
+}
+
+
 footer {
-background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,225,1) 25%, rgba(0,102,225,1) 70%, rgba(0,0,0,1) 100%);
+background: linear-gradient(90deg, #000000 0%, #0000ff 25%,#0066ff 70%, #000000 100%);
 border:5px solid #ffffff;
+
   
 }
 
-footer>p {
+footer p {
 font-size: 20px;
 text-align: right;
-padding-top: 15px;
-padding-right: 15px;
-padding-bottom: 15px;
+padding: 15px 15px 15px 0px;
 }
