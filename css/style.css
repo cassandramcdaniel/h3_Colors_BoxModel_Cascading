@@ -89,6 +89,11 @@ margin-right: 50px;
 border-width: 2px 5px 0px 0px;
 }
 
+.green>h2{
+color: #E8E8E8;
+}
+
+
 footer {
 background: linear-gradient(90deg, #000000 0%, #0000ff 25%,#0066ff 70%, #000000 100%);
 border:5px solid #ffffff;
@@ -99,7 +104,5 @@ border:5px solid #ffffff;
 footer p {
 font-size: 20px;
 text-align: right;
-padding-top: 15px;
-padding-right: 15px;
-padding-bottom: 15px;
+padding: 15px 15px 15px 0px;
 }
